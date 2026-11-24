@@ -34,6 +34,10 @@ ProfileTools.exe (59.2 MB, standalone - nothing to install)
 
 Download: https://github.com/virtualwebber/Profile-Tools/releases/latest
 
+**Digital signature**
+
+Digitally signed using DigiCert.
+
 **Checksums**
 
 SHA256 - B0F94A11EE155CAB02F092401B0206BCF9FC06B489CD65D452CBB84AC9892ECA

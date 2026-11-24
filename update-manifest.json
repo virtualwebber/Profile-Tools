@@ -1,0 +1,13 @@
+{
+    "app":  "ProfileTools",
+    "version":  "2611.24.01",
+    "fileVersion":  "2611.24.1.0",
+    "published":  "2026-11-24T17:21:45Z",
+    "notes":  "Features\n- Updates itself: a new version is offered at start-up, and About \u003e Check for Updates checks now\n- Windows file servers as well as Azure Files (no Azure sign-in needed for file servers)\n- Storage Locations: click a location to see its share and NTFS permissions, with an FSLogix check (Azure Files: the share\u0027s Storage File Data roles)\n- Settings: switches for the permissions pane and the FSLogix check\n- Profile Cleanup: folders to exclude from cleanup (wildcards allowed)\n- When only one storage location is configured, it is ticked by default\n\nFixes\n- Profile Locks no longer shows your own admin account\u0027s open files as locks\n- Sharp folder icon in the taskbar",
+    "exe":  {
+                "name":  "ProfileTools.exe",
+                "url":  "https://github.com/virtualwebber/Profile-Tools/releases/download/v2611.24.01/ProfileTools.exe",
+                "sha256":  "B0F94A11EE155CAB02F092401B0206BCF9FC06B489CD65D452CBB84AC9892ECA",
+                "size":  62069672
+            }
+}
