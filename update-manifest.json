@@ -1,13 +1,13 @@
 {
     "app":  "ProfileTools",
-    "version":  "2611.25.01",
-    "fileVersion":  "2611.25.1.0",
-    "published":  "2026-11-25T07:21:17Z",
-    "notes":  "",
+    "version":  "2611.25.02",
+    "fileVersion":  "2611.25.2.0",
+    "published":  "2026-11-25T08:58:49Z",
+    "notes":  "Fixes\n- Windows no longer flash white before showing in dark mode (Settings, Profile Tools and others)",
     "exe":  {
                 "name":  "ProfileTools.exe",
-                "url":  "https://github.com/virtualwebber/Profile-Tools/releases/download/v2611.25.01/ProfileTools.exe",
-                "sha256":  "A479C72452F6997BA931BB87BC353763A246C0DEE32CCB94E354E674A1122A2F",
-                "size":  62063144
+                "url":  "https://github.com/virtualwebber/Profile-Tools/releases/download/v2611.25.02/ProfileTools.exe",
+                "sha256":  "8040EA5C5014D9A2B6DD9ED642B3DEA9B25744C55EEB9CCB80C655429CCA74A8",
+                "size":  62063888
             }
 }
