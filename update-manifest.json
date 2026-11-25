@@ -1,13 +1,13 @@
 {
     "app":  "ProfileTools",
-    "version":  "2611.25.03",
-    "fileVersion":  "2611.25.3.0",
-    "published":  "2026-11-25T10:30:29Z",
-    "notes":  "Features\n- Container Cleanup: remove what your own rules match from inside FSLogix Profile containers\n- Settings \u003e Container rules: define what to remove, import from redirections.xml\n- Container Cleanup: Scan lists the containers without rules\n- Its own audit log (Audit Log button), separate from the dashboard\u0027s\n- Opens larger by default (1210 x 790) and remembers its size, position and maximised state",
+    "version":  "2611.25.04",
+    "fileVersion":  "2611.25.4.0",
+    "published":  "2026-11-25T11:19:43Z",
+    "notes":  "Features\n- Container Cleanup: Edit rules button\n\nFixes\n- Profile Cleanup: unreadable profiles no longer listed as stale\n- Cancelled deletes are audited\n- Container Cleanup: Remove uses only the scanned rules\n- Container Cleanup: credentials and registry files protected\n- Container Cleanup: cancelled removals are audited\n- Compact the container now works\n- Container Cleanup: differencing disks skipped\n- Open Container: faster on large folders\n- Container rules: Days limited to 3650",
     "exe":  {
                 "name":  "ProfileTools.exe",
-                "url":  "https://github.com/virtualwebber/Profile-Tools/releases/download/v2611.25.03/ProfileTools.exe",
-                "sha256":  "DC1D5D320021E4D9194EA0E4D617C39F9113853406702F68B9F172B00CB3DD9B",
-                "size":  62133272
+                "url":  "https://github.com/virtualwebber/Profile-Tools/releases/download/v2611.25.04/ProfileTools.exe",
+                "sha256":  "DB4F0E081CC590D02466A9EC7C9803A5E07F565DA3955E21B07FAB6F98421331",
+                "size":  62147120
             }
 }
