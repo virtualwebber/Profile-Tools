@@ -1,13 +1,13 @@
 {
     "app":  "ProfileTools",
-    "version":  "2611.25.06",
-    "fileVersion":  "2611.25.6.0",
-    "published":  "2026-11-25T11:49:39Z",
+    "version":  "2611.25.07",
+    "fileVersion":  "2611.25.7.0",
+    "published":  "2026-11-25T12:51:58Z",
     "notes":  "",
     "exe":  {
                 "name":  "ProfileTools.exe",
-                "url":  "https://github.com/virtualwebber/Profile-Tools/releases/download/v2611.25.06/ProfileTools.exe",
-                "sha256":  "E476FCB4CD99551F4329A4717C26BA7D3C56BB4F01F5142B4B2D2337CFDA2D1F",
-                "size":  62147600
+                "url":  "https://github.com/virtualwebber/Profile-Tools/releases/download/v2611.25.07/ProfileTools.exe",
+                "sha256":  "F880311590CE781197F7162019E53A386341CA42FABBD27E7BDFF65D7A664EDD",
+                "size":  62147896
             }
 }
