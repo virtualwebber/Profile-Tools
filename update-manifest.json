@@ -1,13 +1,13 @@
 {
     "app":  "ProfileTools",
-    "version":  "2611.25.02",
-    "fileVersion":  "2611.25.2.0",
-    "published":  "2026-11-25T08:58:49Z",
-    "notes":  "Fixes\n- Windows no longer flash white before showing in dark mode (Settings, Profile Tools and others)",
+    "version":  "2611.25.03",
+    "fileVersion":  "2611.25.3.0",
+    "published":  "2026-11-25T10:30:29Z",
+    "notes":  "Features\n- Container Cleanup: remove what your own rules match from inside FSLogix Profile containers\n- Settings \u003e Container rules: define what to remove, import from redirections.xml\n- Container Cleanup: Scan lists the containers without rules\n- Its own audit log (Audit Log button), separate from the dashboard\u0027s\n- Opens larger by default (1210 x 790) and remembers its size, position and maximised state",
     "exe":  {
                 "name":  "ProfileTools.exe",
-                "url":  "https://github.com/virtualwebber/Profile-Tools/releases/download/v2611.25.02/ProfileTools.exe",
-                "sha256":  "8040EA5C5014D9A2B6DD9ED642B3DEA9B25744C55EEB9CCB80C655429CCA74A8",
-                "size":  62063888
+                "url":  "https://github.com/virtualwebber/Profile-Tools/releases/download/v2611.25.03/ProfileTools.exe",
+                "sha256":  "DC1D5D320021E4D9194EA0E4D617C39F9113853406702F68B9F172B00CB3DD9B",
+                "size":  62133272
             }
 }

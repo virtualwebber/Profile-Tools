@@ -1,4 +1,4 @@
-# AVD Profile Tools 2611.25.02
+# AVD Profile Tools 2611.25.03
 
 **Release Date** 25 November 2026
 
@@ -30,7 +30,7 @@ Everything is set up in Settings (no config file). It updates itself: a new vers
 
 **Executable**
 
-ProfileTools.exe (59.2 MB, standalone - nothing to install)
+ProfileTools.exe (59.3 MB, standalone - nothing to install)
 
 Download: https://github.com/virtualwebber/Profile-Tools/releases/latest
 
@@ -40,12 +40,12 @@ Digitally signed using DigiCert.
 
 **Checksums**
 
-SHA256 - 8040EA5C5014D9A2B6DD9ED642B3DEA9B25744C55EEB9CCB80C655429CCA74A8
+SHA256 - DC1D5D320021E4D9194EA0E4D617C39F9113853406702F68B9F172B00CB3DD9B
 
 **VirusTotal Result**
 
-https://www.virustotal.com/gui/file/8040ea5c5014d9a2b6dd9ed642b3dea9b25744c55eeb9ccb80c655429cca74a8/detection
+https://www.virustotal.com/gui/file/dc1d5d320021e4d9194ea0e4d617c39f9113853406702f68b9f172b00cb3dd9b/detection
 
-0 malicious / 0 suspicious of 66 engines
+0 malicious / 0 suspicious of 68 engines
 
 To check a download: `Get-FileHash .\ProfileTools.exe -Algorithm SHA256`
