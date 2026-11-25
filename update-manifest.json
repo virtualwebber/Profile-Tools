@@ -1,13 +1,13 @@
 {
     "app":  "ProfileTools",
-    "version":  "2611.25.04",
-    "fileVersion":  "2611.25.4.0",
-    "published":  "2026-11-25T11:19:43Z",
-    "notes":  "Features\n- Container Cleanup: Edit rules button\n\nFixes\n- Profile Cleanup: unreadable profiles no longer listed as stale\n- Cancelled deletes are audited\n- Container Cleanup: Remove uses only the scanned rules\n- Container Cleanup: credentials and registry files protected\n- Container Cleanup: cancelled removals are audited\n- Compact the container now works\n- Container Cleanup: differencing disks skipped\n- Open Container: faster on large folders\n- Container rules: Days limited to 3650",
+    "version":  "2611.25.05",
+    "fileVersion":  "2611.25.5.0",
+    "published":  "2026-11-25T11:24:55Z",
+    "notes":  "",
     "exe":  {
                 "name":  "ProfileTools.exe",
-                "url":  "https://github.com/virtualwebber/Profile-Tools/releases/download/v2611.25.04/ProfileTools.exe",
-                "sha256":  "DB4F0E081CC590D02466A9EC7C9803A5E07F565DA3955E21B07FAB6F98421331",
-                "size":  62147120
+                "url":  "https://github.com/virtualwebber/Profile-Tools/releases/download/v2611.25.05/ProfileTools.exe",
+                "sha256":  "2B0100779056D211C3341EAE7E8D1152CE04D67166300B2FFA43B9D6EC8A305C",
+                "size":  62147216
             }
 }
