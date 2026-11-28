@@ -1,13 +1,13 @@
 {
     "app":  "ProfileTools",
-    "version":  "2611.28.01",
-    "fileVersion":  "2611.28.1.0",
-    "published":  "2026-11-28T09:34:49Z",
-    "notes":  "Features\n- Tools: FSLogix Log Diagnostics",
+    "version":  "2611.28.02",
+    "fileVersion":  "2611.28.2.0",
+    "published":  "2026-11-28T09:50:13Z",
+    "notes":  "Features\n- FSLogix Log Diagnostics: progress and a Stop button\n\nFixes\n- FSLogix Log Diagnostics: no longer hangs on unreachable computers; messages wrap",
     "exe":  {
                 "name":  "ProfileTools.exe",
-                "url":  "https://github.com/virtualwebber/Profile-Tools/releases/download/v2611.28.01/ProfileTools.exe",
-                "sha256":  "927C1CB0DAF345320F93C94AA20FEE359038EEF0D48FF88E77BA3A67DE39E96C",
-                "size":  62187640
+                "url":  "https://github.com/virtualwebber/Profile-Tools/releases/download/v2611.28.02/ProfileTools.exe",
+                "sha256":  "363FDFB7450A46D4606515498E390A9180B14721ABF86E703EF76E0A9329F556",
+                "size":  62191720
             }
 }
