@@ -1,4 +1,4 @@
-# AVD Profile Tools 2611.28.02
+# AVD Profile Tools 2611.28.03
 
 **Release Date** 28 November 2026
 
@@ -40,12 +40,10 @@ Digitally signed using DigiCert.
 
 **Checksums**
 
-SHA256 - 363FDFB7450A46D4606515498E390A9180B14721ABF86E703EF76E0A9329F556
+SHA256 - 3846A078200F18AF36E8B6D82FFA7F0244C77DCC0AD159CFF27EB576C2169713
 
 **VirusTotal Result**
 
-https://www.virustotal.com/gui/file/363fdfb7450a46d4606515498e390a9180b14721abf86e703ef76e0a9329f556/detection
-
-0 malicious / 0 suspicious of 67 engines
+This build was not scanned.
 
 To check a download: `Get-FileHash .\ProfileTools.exe -Algorithm SHA256`
