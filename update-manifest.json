@@ -1,13 +1,13 @@
 {
   "app": "ProfileTools",
-  "version": "2611.28.03",
-  "fileVersion": "2611.28.3.0",
-  "published": "2026-11-28T09:59:24Z",
-  "notes": "Features\n- FSLogix Log Diagnostics: time window drop-down (or since a date / time)",
+  "version": "2611.28.04",
+  "fileVersion": "2611.28.4.0",
+  "published": "2026-11-28T10:04:53Z",
+  "notes": "Fixes\n- FSLogix Log Diagnostics: messages no longer cut off; error text for events",
   "exe": {
     "name": "ProfileTools.exe",
-    "url": "https://github.com/virtualwebber/Profile-Tools/releases/download/v2611.28.03/ProfileTools.exe",
-    "sha256": "3846A078200F18AF36E8B6D82FFA7F0244C77DCC0AD159CFF27EB576C2169713",
-    "size": 62191544
+    "url": "https://github.com/virtualwebber/Profile-Tools/releases/download/v2611.28.04/ProfileTools.exe",
+    "sha256": "80A90D9DA8FECE9F0EC5C26DCD10B7ECEAE10BBF04C45D5C93343E100C7303F9",
+    "size": 62191832
   }
 }
