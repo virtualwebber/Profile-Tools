@@ -1,13 +1,13 @@
 {
     "app":  "ProfileTools",
-    "version":  "2611.25.07",
-    "fileVersion":  "2611.25.7.0",
-    "published":  "2026-11-25T12:51:58Z",
-    "notes":  "",
+    "version":  "2611.28.01",
+    "fileVersion":  "2611.28.1.0",
+    "published":  "2026-11-28T09:34:49Z",
+    "notes":  "Features\n- Tools: FSLogix Log Diagnostics",
     "exe":  {
                 "name":  "ProfileTools.exe",
-                "url":  "https://github.com/virtualwebber/Profile-Tools/releases/download/v2611.25.07/ProfileTools.exe",
-                "sha256":  "F880311590CE781197F7162019E53A386341CA42FABBD27E7BDFF65D7A664EDD",
-                "size":  62147896
+                "url":  "https://github.com/virtualwebber/Profile-Tools/releases/download/v2611.28.01/ProfileTools.exe",
+                "sha256":  "927C1CB0DAF345320F93C94AA20FEE359038EEF0D48FF88E77BA3A67DE39E96C",
+                "size":  62187640
             }
 }
